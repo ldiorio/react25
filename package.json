@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ldiorio.github.io/react25/"
+  "homepage": "https://ldiorio.github.io/react25/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
